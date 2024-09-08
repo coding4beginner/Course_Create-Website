@@ -13,3 +13,5 @@ Library/
 
 .venv
 .vscode
+!.vscode/settings.json
+
