@@ -3,6 +3,7 @@
 
 .viminfo
 .wget-hsts
+.lesshst
 .bash_history
 
 .envrc
