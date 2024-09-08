@@ -12,6 +12,7 @@ set_env.sh
 Library/
 
 .venv
+
 .vscode
 !.vscode/settings.json
-
+.vscode-insiders
