@@ -1,1 +1,3 @@
-# Course_Create-Website
+# Course - Create Website
+
+![Layout](doc/layout.png)
