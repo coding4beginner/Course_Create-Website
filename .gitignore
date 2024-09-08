@@ -1,0 +1,14 @@
+.cache
+.local
+
+.viminfo
+.wget-hsts
+.bash_history
+
+.envrc
+set_env.sh
+
+Library/
+
+.venv
+.vscode
